@@ -8,6 +8,8 @@ Future changes should include trying this with different road images, I am curio
 
 Figure: Showing Lane Detection Algorithm
 
-![ScreenShot](https://github.com/robboby13/Machine-Vision-Algorithms/blob/master/terminal_lane_detection.png)
+Linux Terminal Commands
 
-Figure: Showing Linux Terminal Commands
+cd .../lanedetection
+
+python canny.py
