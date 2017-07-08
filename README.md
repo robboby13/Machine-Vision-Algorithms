@@ -4,10 +4,7 @@ Vision Based Perception Algorithms
 
 Lane Detection
 
-Future Release (Date: ?)
-Vehicle Detection
-Sign Detection
-Pedestrian Detection
+Future Release: Vehicle Detection, Sign Detection, Pedestrian Detection
 
 Install Requirements
 OpenCV-Python Lib
