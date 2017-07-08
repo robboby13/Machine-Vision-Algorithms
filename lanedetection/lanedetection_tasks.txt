@@ -1,0 +1,4 @@
+Review Vision Pipline for improvements
+Get Video Data up and running
+Update algorithm to work around curvature
+
