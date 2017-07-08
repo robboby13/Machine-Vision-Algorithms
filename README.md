@@ -9,3 +9,4 @@ Future Release: Vehicle Detection, Sign Detection, Pedestrian Detection
 Install Requirements
 OpenCV-Python Lib
 https://breakthrough.github.io/Installing-OpenCV/
+Compiled using CMAKE
