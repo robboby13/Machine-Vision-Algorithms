@@ -1,4 +1,14 @@
 # Machine-Vision-Algorithms
-Vision based algorithms
-Vehicle Detection is added using opencv-python libs
-Lane detection using openCV-python libs
+
+Vision Based Perception Algorithms
+
+Lane Detection
+
+Future Release (Date: ?)
+Vehicle Detection
+Sign Detection
+Pedestrian Detection
+
+Install Requirements
+OpenCV-Python Lib
+https://breakthrough.github.io/Installing-OpenCV/
